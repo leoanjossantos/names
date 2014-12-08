@@ -5,4 +5,4 @@
 projeto para geração de nomes aleatórios
 
 Leandro:
-https://travis-ci.org/leoanjossantos/names.svg
+[![Build Status](https://travis-ci.org/leoanjossantos/names.svg)](https://travis-ci.org/leoanjossantos/names.svg)
